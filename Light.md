@@ -6,7 +6,6 @@ Recently, I tackled the **"Light"** challenge on TryHackMe, which was a fun and 
 
 When connecting to the machine on port **1337** using `nc`, we're greeted with a login prompt:
 
-```bash
 **nc 10.10.39.206 1337**
 You'll see:
 
